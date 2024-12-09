@@ -1,5 +1,5 @@
 # most-visited-websites
-收录website排行榜
+ - 收录website排行榜，可用于产品调研.
 ```
 youtube.com,772392983
 tiktok.com,247668176
