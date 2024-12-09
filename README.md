@@ -1,5 +1,6 @@
 # most-visited-websites
  - 收录website排行榜，可用于产品调研.
+ - 逗号左边是网站域名，右边是semrush影响力排名.
 ```
 youtube.com,772392983
 tiktok.com,247668176
